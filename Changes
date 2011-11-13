@@ -1,0 +1,7 @@
+Revision history for Perl extension User::Config::DB::Ldap.
+
+0.01_01  Fri Nov 11 15:34:46 2011
+	- splitted from User::Config
+	- original version; created by h2xs 1.23 with options
+		-Xn User::Config::DB::Ldap -v 0.01_01
+
